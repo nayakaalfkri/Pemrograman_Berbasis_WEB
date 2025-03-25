@@ -1,0 +1,21 @@
+h2 {
+    text-align: center;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+    max-width: 600px;
+    justify-content: center;
+    margin: auto;
+
+}
+
+.gallery img {
+    width: 200px;
+    height: 200px;
+    border: none;
+    object-fit: cover;
+
+}

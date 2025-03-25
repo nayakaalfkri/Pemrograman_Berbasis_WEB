@@ -1,0 +1,18 @@
+.category {
+    text-align: center;
+}
+
+.judul {
+    text-align: center;
+}
+.bio {
+    text-align: center;
+}
+.S{
+    font-weight: bold;
+    font-size: 23px;
+}
+*{
+    font-family: 'Poppins',serif;
+    
+}
